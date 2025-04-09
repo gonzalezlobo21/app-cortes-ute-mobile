@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "CortesUTE",
+    "slug": "cortesute",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["android", "ios"],
+    "jsEngine": "hermes",
+    "sdkVersion": "50.0.0"
+  }
+}
